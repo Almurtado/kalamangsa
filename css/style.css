@@ -7,3 +7,7 @@
 .parallax-container{
 	height: 240px;
 }
+
+section, footer{
+	padding: 20px 0;
+}
